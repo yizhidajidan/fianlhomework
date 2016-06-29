@@ -1,0 +1,12 @@
+body {
+	background-color:白色;
+	font-family: "宋体" ;
+	font-size: 34pt ;
+}
+p {
+	text-align: center;
+	color: orange;
+}
+p.rowtwo {
+	color: blue;
+}
